@@ -1,5 +1,5 @@
 h1 {font-size: 1.9375rem; margin-top:1em; margin-bottom:1em; color:#005F94;}
 h4 {color: #9E3E29;}
 blockquote {font-weight: bold; color: #B4A640 !important; max-width: 600px;}
-.bluey {background-color: #0077AF; color:white; margin-top: .5em; margin-bottom:.5em; padding:.5em; text-align: center;}
-.bluey h1, h2, h3 {font-family: 'Roboto Slab', serif; color: white;}
+.bluey {background-color: #0077AF; color:white; margin-top: .5em; margin-bottom:.5em; padding:.5em; padding-top: 0em; text-align: center;}
+.bluey h1, h2 {font-family: 'Roboto Slab', serif; color: white;}
